@@ -1,2 +1,2 @@
-# git-theera-demo
-git-theera-demo
+# theera-demo
+theera-demo
